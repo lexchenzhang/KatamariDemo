@@ -62,14 +62,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-ProjectSettings/ProjectVersion.txt
-Packages/packages-lock.json
-/Assets/_TerrainAutoUpgrade.meta
-/.idea/.idea.TDSec/.idea/contentModel.xml
-/.idea/.idea.TDSec/.idea/indexLayout.xml
-/.idea/.idea.TDSec/.idea/modules.xml
-/.idea/.idea.TDSec/.idea/projectSettingsUpdater.xml
-/.idea/.idea.TDSec/riderModule.iml
-/Assets/StreamingAssets.meta
-/.idea/.idea.TDSec/.idea/vcs.xml
-/.idea/.idea.TDSec/.idea/workspace.xml
+# MacOS
+.DS_Store
